@@ -103,11 +103,11 @@ function injectNavbar(activePage) {
   const rootPrefix = isSubPage ? '../' : './';
 
   const pages = [
-    { key: 'home', label: 'Home', href: rootPrefix + 'index.html' },
-    { key: 'samples', label: 'Samples', href: rootPrefix + 'samples.html' },
-    { key: 'bulk', label: 'Bulk Order', href: rootPrefix + 'bulk.html' },
-    { key: 'about', label: 'About Us', href: rootPrefix + 'About.html' },
-    { key: 'contact', label: 'Contact', href: rootPrefix + 'Contact.html' }
+    { key: 'home', label: 'Home', href: rootPrefix + 'index' },
+    { key: 'samples', label: 'Samples', href: rootPrefix + 'samples' },
+    { key: 'bulk', label: 'Bulk Order', href: rootPrefix + 'bulk' },
+    { key: 'about', label: 'About Us', href: rootPrefix + 'about' },
+    { key: 'contact', label: 'Contact', href: rootPrefix + 'contact' }
   ];
 
   // Desktop links — active gets red text + red underline, others are dark gray
