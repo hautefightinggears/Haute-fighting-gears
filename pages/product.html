@@ -41,7 +41,7 @@
             <nav class="flex items-center gap-2 font-label-sm text-neutral-gray uppercase flex-wrap">
                 <a href="../" class="hover:text-accent-red transition-colors">Home</a>
                 <span>/</span>
-                <a href="/products/" class="hover:text-accent-red transition-colors">Products</a>
+                <a href="/products.html" class="hover:text-accent-red transition-colors">Products</a>
                 <span>/</span>
                 <span id="breadcrumb-category" class="hover:text-accent-red transition-colors cursor-pointer"></span>
                 <span>/</span>
@@ -102,7 +102,7 @@
 
             const breadCat = document.getElementById('breadcrumb-category');
             breadCat.textContent = p.categoryName;
-            breadCat.onclick = () => { window.location.href = '/products/?cat=' + p.categoryId; };
+            breadCat.onclick = () => { window.location.href = '/products.html?cat=' + p.categoryId; };
             document.getElementById('breadcrumb-name').textContent = p.name;
 
             renderProduct(p);
@@ -116,7 +116,7 @@
             document.getElementById('product-content').innerHTML = `
                 <div class="col-span-12 text-center py-40">
                     <h2 class="font-headline-lg text-headline-lg uppercase mb-4">Product Not Found</h2>
-                    <a href="/products/" class="bg-primary text-on-primary px-8 py-4 font-label-bold uppercase inline-block hover:bg-accent-red transition-colors">Back to Products</a>
+                    <a href="/products.html" class="bg-primary text-on-primary px-8 py-4 font-label-bold uppercase inline-block hover:bg-accent-red transition-colors">Back to Products</a>
                 </div>`;
         }
 
@@ -289,7 +289,7 @@
                 if (customNotes) allParts.push('Notes: ' + customNotes);
                 const description = allParts.join(' | ');
 
-                const url = '/inquiry/?product=' + encodeURIComponent(p.id)
+                const url = '/inquiry.html?product=' + encodeURIComponent(p.id)
                     + '&productName=' + encodeURIComponent(p.name)
                     + '&description=' + encodeURIComponent(description);
                 window.location.href = url;
