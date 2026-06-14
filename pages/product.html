@@ -304,7 +304,7 @@
             const FIMG = FALLBACK_IMG;
             grid.innerHTML = list.map(p => {
                 const img = _resolveImage(p, 0);
-                return `<a href="/pages/product.html?id=${p.id}" class="group border border-outline-variant bg-surface-container-lowest overflow-hidden flex flex-col" data-reveal style="text-decoration:none;color:inherit">
+                return `<a href="/product.html?id=${p.id}" class="group border border-outline-variant bg-surface-container-lowest overflow-hidden flex flex-col" data-reveal style="text-decoration:none;color:inherit">
                     <div style="width:100%;background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden;aspect-ratio:1/1">
                         <img src="${img}" alt="${p.name}" class="w-full h-full transition-transform duration-500 group-hover:scale-105" style="object-fit:contain;padding:6px" onerror="this.src='${FIMG}'"/>
                     </div>
