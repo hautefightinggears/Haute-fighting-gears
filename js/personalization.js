@@ -171,7 +171,7 @@ const HFG_P = (function () {
   function renderRecentlyViewed(containerEl, allProducts, pagePrefix) {
     const viewed = getRecentlyViewed();
     if (!viewed.length) return;
-    pagePrefix = pagePrefix || '/product/';
+    pagePrefix = pagePrefix || '/product.html';
 
     const products = viewed
       .map(name => allProducts.find(p => p.name === name))
@@ -210,7 +210,7 @@ const HFG_P = (function () {
   function renderRecommendations(containerEl, allProducts, pagePrefix) {
     const recs = getRecommendations(allProducts, 4);
     if (!recs) return;
-    pagePrefix = pagePrefix || '/product/';
+    pagePrefix = pagePrefix || '/product.html';
 
     const html = `
       <section style="padding:40px 0 0">
@@ -245,7 +245,7 @@ const HFG_P = (function () {
       const cartIds = cartItems.map(i => i.productId || i.key.split('__')[0]);
       const upsells = getUpsells(cartIds, allProducts);
       if (!upsells || !upsells.length) return;
-      pagePrefix = pagePrefix || '/product/';
+      pagePrefix = pagePrefix || '/product.html';
 
       const html = `
         <section style="margin-top:40px;padding:28px;border:1.5px solid #e5e5e5;background:#fbf9f9">
