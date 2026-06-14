@@ -109,10 +109,10 @@ function injectNavbar(activePage) {
 
   const pages = [
     { key: 'home', label: 'Home', href: '/' },
-    { key: 'samples', label: 'Products', href: '/products/' },
-    { key: 'bulk', label: 'Inquiry', href: '/inquiry/' },
-    { key: 'about', label: 'About Us', href: '/about/' },
-    { key: 'contact', label: 'Contact', href: '/contact/' }
+    { key: 'samples', label: 'Products', href: '/products.html' },
+    { key: 'bulk', label: 'Inquiry', href: '/inquiry.html' },
+    { key: 'about', label: 'About Us', href: '/About.html' },
+    { key: 'contact', label: 'Contact', href: '/Contact.html' }
   ];
 
   // Desktop links — active gets red text + red underline, others are dark gray
@@ -299,10 +299,10 @@ function injectFooter() {
       <div class="hfg-footer-content">
         <ul class="flex flex-col gap-3">
           <li><a href="/"                    class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Home</a></li>
-          <li><a href="/products/"          class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Products</a></li>
-          <li><a href="/inquiry/"           class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Inquiry</a></li>
-          <li><a href="/about/"             class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">About Us</a></li>
-          <li><a href="/contact/"           class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Contact Us</a></li>
+          <li><a href="/products.html"       class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Products</a></li>
+          <li><a href="/inquiry.html"        class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Inquiry</a></li>
+          <li><a href="/About.html"          class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">About Us</a></li>
+          <li><a href="/Contact.html"        class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Contact Us</a></li>
         </ul>
       </div>
     </div>
@@ -315,10 +315,10 @@ function injectFooter() {
       </h5>
       <div class="hfg-footer-content">
         <ul class="flex flex-col gap-3">
-          <li><a href="/privacy-policy/"      class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Privacy Policy</a></li>
-          <li><a href="/terms/"              class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Terms &amp; Conditions</a></li>
-          <li><a href="/shipping/"           class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Shipping Info</a></li>
-          <li><a href="/contact/"            class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Contact</a></li>
+          <li><a href="/privacy-policy.html"  class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Privacy Policy</a></li>
+          <li><a href="/terms.html"           class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Terms &amp; Conditions</a></li>
+          <li><a href="/shipping.html"        class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Shipping Info</a></li>
+          <li><a href="/Contact.html"         class="text-primary-fixed-dim opacity-80 hover:text-accent-red transition-colors font-body-md">Contact</a></li>
         </ul>
       </div>
     </div>
