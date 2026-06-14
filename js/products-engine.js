@@ -274,7 +274,7 @@ async function renderProductGrid(container, filter) {
     container.innerHTML = list.map(p => {
         const img = _resolveImage(p, 0);
 
-        const target = `/product.html?id=${encodeURIComponent(p.id)}`;
+        const target = `/pages/product.html?id=${encodeURIComponent(p.id)}`;
         return `
         <a href="${target}" class="group border border-outline-variant bg-surface-container-lowest overflow-hidden flex flex-col" data-reveal style="text-decoration:none;color:inherit;display:flex">
             <div style="width:100%;background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden;flex-shrink:0;aspect-ratio:1/1;border-bottom:1px solid #eee">
