@@ -1,0 +1,32 @@
+[
+  {
+    "id": "boxing",
+    "name": "Boxing Equipment",
+    "hidden": false,
+    "order": 0
+  },
+  {
+    "id": "mma",
+    "name": "MMA",
+    "hidden": false,
+    "order": 1
+  },
+  {
+    "id": "apparel",
+    "name": "Apparel",
+    "hidden": false,
+    "order": 2
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "hidden": false,
+    "order": 3
+  },
+  {
+    "id": "gym-fitness",
+    "name": "Gym & Fitness",
+    "hidden": false,
+    "order": 4
+  }
+]
