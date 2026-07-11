@@ -1,0 +1,59 @@
+{
+  "id": "inner-gloves",
+  "name": "Hand Wraps",
+  "category": "Gym & Fitness",
+  "image": "/product/hand-wrap-gloves/1.webp",
+  "images": [
+    "/product/hand-wrap-gloves/1.webp",
+    "/product/hand-wrap-gloves/2.webp"
+  ],
+  "description": "Durable hand wraps providing wrist stability and knuckle protection for training and fights. Available in Cotton/Nylon, Gel, or Quick Wrap styles.",
+  "variants": [
+    {
+      "id": "cotton",
+      "label": "Cotton / Nylon"
+    },
+    {
+      "id": "gel",
+      "label": "Gel Wrap"
+    },
+    {
+      "id": "quick-wrap",
+      "label": "Quick Wrap"
+    }
+  ],
+  "specs": {
+    "Length": [
+      "1.5m",
+      "3m",
+      "4m",
+      "4.5m"
+    ],
+    "Color": [
+      "Black",
+      "Red",
+      "Blue",
+      "White",
+      "Pink",
+      "Custom"
+    ]
+  },
+  "categoryId": "gym-fitness",
+  "status": "published",
+  "featured": false,
+  "newArrival": false,
+  "bestSeller": false,
+  "popular": false,
+  "homepageCollection": false,
+  "createdAt": "2026-07-11T21:19:32.866Z",
+  "updatedAt": "2026-07-11T21:19:32.866Z",
+  "slug": "inner-gloves",
+  "seo": {
+    "title": "",
+    "description": "",
+    "slug": "inner-gloves",
+    "ogImage": "/product/hand-wrap-gloves/1.webp",
+    "canonical": ""
+  },
+  "thumbnail": "/product/hand-wrap-gloves/1.webp"
+}
