@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "boxing-gloves",
+    "name": "Boxing Gloves",
+    "slug": "boxing-gloves",
+    "category": "Boxing",
+    "categoryId": "boxing",
+    "thumbnail": "/product/boxing-gloves/1.webp",
+    "status": "published",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "popular": false,
+    "homepageCollection": false,
+    "createdAt": "2026-07-11T21:19:22.061Z",
+    "updatedAt": "2026-07-11T21:19:22.063Z"
+  }
+]
