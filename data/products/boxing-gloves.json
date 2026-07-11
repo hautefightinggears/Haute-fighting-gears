@@ -1,0 +1,68 @@
+{
+  "id": "boxing-gloves",
+  "name": "Boxing Gloves",
+  "category": "Boxing",
+  "image": "/product/boxing-gloves/1.webp",
+  "images": [
+    "/product/boxing-gloves/1.webp",
+    "/product/boxing-gloves/2.webp",
+    "/product/boxing-gloves/3.webp"
+  ],
+  "description": "Professional-grade boxing gloves built for training, sparring, and competition. Choose your material and weight for the perfect fit.",
+  "variants": [
+    {
+      "id": "cowhide",
+      "label": "Cowhide Leather"
+    },
+    {
+      "id": "cowhide-enhanced",
+      "label": "Cowhide Enhanced Padding"
+    },
+    {
+      "id": "pu",
+      "label": "PU Synthetic"
+    },
+    {
+      "id": "pu-molded",
+      "label": "PU Hand Molded"
+    }
+  ],
+  "specs": {
+    "Weight (oz)": [
+      "8oz",
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "Closure": [
+      "Velcro",
+      "Lace-Up"
+    ],
+    "Color": [
+      "Black",
+      "Red",
+      "Blue",
+      "White",
+      "Custom"
+    ]
+  },
+  "categoryId": "boxing",
+  "status": "published",
+  "featured": false,
+  "newArrival": false,
+  "bestSeller": false,
+  "popular": false,
+  "homepageCollection": false,
+  "createdAt": "2026-07-11T21:19:22.061Z",
+  "updatedAt": "2026-07-11T21:19:22.063Z",
+  "slug": "boxing-gloves",
+  "seo": {
+    "title": "",
+    "description": "",
+    "slug": "boxing-gloves",
+    "ogImage": "/product/boxing-gloves/1.webp",
+    "canonical": ""
+  },
+  "thumbnail": "/product/boxing-gloves/1.webp"
+}
