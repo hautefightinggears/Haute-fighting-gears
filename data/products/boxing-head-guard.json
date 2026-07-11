@@ -1,0 +1,55 @@
+{
+  "id": "boxing-head-guard",
+  "name": "Boxing Head Guard",
+  "category": "Boxing",
+  "image": "/product/head-guard/1.webp",
+  "images": [
+    "/product/head-guard/1.webp",
+    "/product/head-guard/2.webp",
+    "/product/head-guard/3.webp"
+  ],
+  "description": "Protective headgear designed for sparring with maximum safety, visibility, and comfort. Made from cowhide leather with high-density foam padding.",
+  "variants": [
+    {
+      "id": "open-face",
+      "label": "Open Face"
+    },
+    {
+      "id": "nose-bar",
+      "label": "Nose Bar"
+    }
+  ],
+  "specs": {
+    "Size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "Color": [
+      "Black",
+      "Red",
+      "Blue",
+      "White",
+      "Custom"
+    ]
+  },
+  "categoryId": "boxing",
+  "status": "published",
+  "featured": false,
+  "newArrival": false,
+  "bestSeller": false,
+  "popular": false,
+  "homepageCollection": false,
+  "createdAt": "2026-07-11T21:19:24.871Z",
+  "updatedAt": "2026-07-11T21:19:24.871Z",
+  "slug": "boxing-head-guard",
+  "seo": {
+    "title": "",
+    "description": "",
+    "slug": "boxing-head-guard",
+    "ogImage": "/product/head-guard/1.webp",
+    "canonical": ""
+  },
+  "thumbnail": "/product/head-guard/1.webp"
+}
