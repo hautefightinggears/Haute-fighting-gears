@@ -1,0 +1,734 @@
+﻿{
+    "categories": [
+        {
+            "id": "boxing",
+            "name": "Boxing Equipment",
+            "products": [
+                {
+                    "id": "boxing-gloves",
+                    "name": "Boxing Gloves",
+                    "category": "Boxing Equipment",
+                    "image": "/assets/products/boxing-gloves/1.webp",
+                    "images": [
+                        "/assets/products/boxing-gloves/1.webp",
+                        "/assets/products/boxing-gloves/2.webp",
+                        "/assets/products/boxing-gloves/3.webp"
+                    ],
+                    "description": "Professional-grade boxing gloves built for training, sparring, and competition. Choose your material and weight for the perfect fit.",
+                    "variants": [
+                        {
+                            "id": "cowhide",
+                            "label": "Cowhide Leather"
+                        },
+                        {
+                            "id": "cowhide-enhanced",
+                            "label": "Cowhide Enhanced Padding"
+                        },
+                        {
+                            "id": "pu",
+                            "label": "PU Synthetic"
+                        },
+                        {
+                            "id": "pu-molded",
+                            "label": "PU Hand Molded"
+                        }
+                    ],
+                    "specs": {
+                        "Weight (oz)": [
+                            "8oz",
+                            "10oz",
+                            "12oz",
+                            "14oz",
+                            "16oz"
+                        ],
+                        "Closure": [
+                            "Velcro",
+                            "Lace-Up"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Boxing Gloves Manufacturer | Haute Fighting Gears",
+                        "description": "Private label custom boxing gloves manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom colors, branding, worldwide shipping.",
+                        "slug": "boxing-gloves"
+                    }
+                },
+                {
+                    "id": "boxing-head-guard",
+                    "name": "Boxing Head Guard",
+                    "category": "Boxing Equipment",
+                    "image": "/assets/products/head-guard/1.webp",
+                    "images": [
+                        "/assets/products/head-guard/1.webp",
+                        "/assets/products/head-guard/2.webp",
+                        "/assets/products/head-guard/3.webp"
+                    ],
+                    "description": "Protective headgear designed for sparring with maximum safety, visibility, and comfort. Made from cowhide leather with high-density foam padding.",
+                    "variants": [
+                        {
+                            "id": "open-face",
+                            "label": "Open Face"
+                        },
+                        {
+                            "id": "nose-bar",
+                            "label": "Nose Bar"
+                        }
+                    ],
+                    "specs": {
+                        "Size": [
+                            "S",
+                            "M",
+                            "L",
+                            "XL"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Boxing Head Guard Manufacturer | Haute Fighting Gears",
+                        "description": "Private label boxing head guards manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom colors, branding, worldwide shipping.",
+                        "slug": "boxing-head-guard"
+                    }
+                },
+                {
+                    "id": "round-punching-mitt",
+                    "name": "Round Punching Mitt",
+                    "category": "Boxing Equipment",
+                    "image": "/assets/products/round punching mitt/1.webp",
+                    "images": [
+                        "/assets/products/round punching mitt/1.webp",
+                        "/assets/products/round punching mitt/2.webp",
+                        "/assets/products/round punching mitt/3.webp",
+                        "/assets/products/round punching mitt/4.webp",
+                        "/assets/products/round punching mitt/5.webp",
+                        "/assets/products/round punching mitt/6.webp",
+                        "/assets/products/round punching mitt/17.webp"
+                    ],
+                    "description": "Professional round punching mitts manufactured for boxing, kickboxing, and MMA coaches. Lightweight construction with multi-layer padding provides superior shock absorption while allowing trainers to work on speed, precision, and combination drills. Fully customizable with your logo, colors, and branding.",
+                    "variants": [
+                        {
+                            "id": "cowhide",
+                            "label": "Cowhide Leather"
+                        },
+                        {
+                            "id": "pu",
+                            "label": "PU Synthetic"
+                        }
+                    ],
+                    "specs": {
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "Cowhide Leather",
+                            "PU Synthetic"
+                        ],
+                        "Hand": [
+                            "Left",
+                            "Right",
+                            "Pair"
+                        ],
+                        "Logo": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Round Punching Mitts Manufacturer | Haute Fighting Gears",
+                        "description": "Private label round punching mitts manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom logo, colors, branding, worldwide shipping.",
+                        "slug": "round-punching-mitt"
+                    }
+                },
+                {
+                    "id": "focus-mitt",
+                    "name": "Focus Mitt",
+                    "category": "Boxing Equipment",
+                    "image": "/assets/products/focus mitt/1.webp",
+                    "images": [
+                        "/assets/products/focus mitt/1.webp",
+                        "/assets/products/focus mitt/2.webp",
+                        "/assets/products/focus mitt/3.webp",
+                        "/assets/products/focus mitt/4.webp",
+                        "/assets/products/focus mitt/5.webp",
+                        "/assets/products/focus mitt/6.webp"
+                    ],
+                    "description": "Professional curved focus mitts manufactured for boxing, MMA, Muay Thai, and kickboxing coaching. High-density foam padding absorbs impact while maintaining lightweight performance for extended training sessions.",
+                    "variants": [
+                        {
+                            "id": "cowhide",
+                            "label": "Cowhide Leather"
+                        },
+                        {
+                            "id": "pu",
+                            "label": "PU Synthetic"
+                        }
+                    ],
+                    "specs": {
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "Cowhide Leather",
+                            "PU Synthetic"
+                        ],
+                        "Hand": [
+                            "Left",
+                            "Right",
+                            "Pair"
+                        ],
+                        "Logo": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Focus Mitts Manufacturer | Haute Fighting Gears",
+                        "description": "Private label focus mitts manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom logo, colors, branding, worldwide shipping.",
+                        "slug": "focus-mitt"
+                    }
+                },
+                {
+                    "id": "bag-mitt",
+                    "name": "Bag Mitt",
+                    "category": "Boxing Equipment",
+                    "image": "/assets/products/Bag Mitt/1.webp",
+                    "images": [
+                        "/assets/products/Bag Mitt/1.webp",
+                        "/assets/products/Bag Mitt/2.webp",
+                        "/assets/products/Bag Mitt/3.webp",
+                        "/assets/products/Bag Mitt/4.webp",
+                        "/assets/products/Bag Mitt/5.webp"
+                    ],
+                    "description": "Premium bag mitts manufactured for heavy bag training and conditioning. Ergonomic design with shock-absorbing padding offers comfort, wrist support, and durability during intense workouts.",
+                    "variants": [
+                        {
+                            "id": "cowhide",
+                            "label": "Cowhide Leather"
+                        },
+                        {
+                            "id": "pu",
+                            "label": "PU Synthetic"
+                        }
+                    ],
+                    "specs": {
+                        "Size": [
+                            "S",
+                            "M",
+                            "L",
+                            "XL"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "Cowhide Leather",
+                            "PU Synthetic"
+                        ],
+                        "Logo": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Bag Mitts Manufacturer | Haute Fighting Gears",
+                        "description": "Private label bag mitts manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom logo, colors, branding, worldwide shipping.",
+                        "slug": "bag-mitt"
+                    }
+                },
+                {
+                    "id": "double-end-ball",
+                    "name": "Double End Ball",
+                    "category": "Boxing Equipment",
+                    "image": "/assets/products/double end ball/1.webp",
+                    "images": [
+                        "/assets/products/double end ball/1.webp",
+                        "/assets/products/double end ball/2.webp",
+                        "/assets/products/double end ball/3.webp",
+                        "/assets/products/double end ball/4.webp",
+                        "/assets/products/double end ball/5.webp",
+                        "/assets/products/double end ball/6.webp"
+                    ],
+                    "description": "Professional double-end punching ball manufactured for improving speed, timing, rhythm, and defensive movement. Constructed using durable leather or PU with reinforced bladder for long-lasting performance.",
+                    "variants": [
+                        {
+                            "id": "leather",
+                            "label": "Genuine Leather"
+                        },
+                        {
+                            "id": "pu",
+                            "label": "PU Synthetic"
+                        }
+                    ],
+                    "specs": {
+                        "Size": [
+                            "Small",
+                            "Medium",
+                            "Large"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "Genuine Leather",
+                            "PU Synthetic"
+                        ],
+                        "Logo": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Double End Ball Manufacturer | Haute Fighting Gears",
+                        "description": "Private label double end punching balls manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom logo, colors, branding, worldwide shipping.",
+                        "slug": "double-end-ball"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "mma",
+            "name": "MMA",
+            "products": [
+                {
+                    "id": "quick-hand-wrap",
+                    "name": "Quick Hand Wrap",
+                    "category": "MMA",
+                    "image": "/assets/products/mma-grappling-glove/1.webp",
+                    "images": [
+                        "/assets/products/mma-grappling-glove/1.webp",
+                        "/assets/products/mma-grappling-glove/2.webp"
+                    ],
+                    "description": "Open-finger gloves designed for grappling and striking, offering flexibility and protection. Available in PU Sparring or Cowhide Competition grade.",
+                    "variants": [
+                        {
+                            "id": "pu-sparring",
+                            "label": "PU Sparring"
+                        },
+                        {
+                            "id": "cowhide-competition",
+                            "label": "Cowhide Competition"
+                        }
+                    ],
+                    "specs": {
+                        "Size": [
+                            "S",
+                            "M",
+                            "L",
+                            "XL"
+                        ],
+                        "Finger Style": [
+                            "Open Finger",
+                            "Pre-Curved"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom MMA Grappling Gloves Manufacturer | Haute Fighting Gears",
+                        "description": "Private label MMA grappling gloves manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom colors, branding, worldwide shipping.",
+                        "slug": "quick-hand-wrap"
+                    }
+                },
+                {
+                    "id": "mma-gloves",
+                    "name": "MMA Gloves",
+                    "category": "MMA",
+                    "image": "/assets/products/mma gloves/1.webp",
+                    "images": [
+                        "/assets/products/mma gloves/1.webp",
+                        "/assets/products/mma gloves/2.webp",
+                        "/assets/products/mma gloves/3.webp",
+                        "/assets/products/mma gloves/4.webp"
+                    ],
+                    "description": "High-performance MMA gloves designed for sparring, competition, and training. Manufactured with premium leather or PU and multi-layer foam padding to deliver comfort, protection, and flexibility.",
+                    "variants": [
+                        {
+                            "id": "cowhide",
+                            "label": "Cowhide Leather"
+                        },
+                        {
+                            "id": "pu",
+                            "label": "PU Synthetic"
+                        }
+                    ],
+                    "specs": {
+                        "Size": [
+                            "XS",
+                            "S",
+                            "M",
+                            "L",
+                            "XL"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "Cowhide Leather",
+                            "PU Synthetic"
+                        ],
+                        "Logo": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom MMA Gloves Manufacturer | Haute Fighting Gears",
+                        "description": "Private label custom MMA gloves manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom colors, branding, worldwide shipping.",
+                        "slug": "mma-gloves"
+                    }
+                },
+                {
+                    "id": "ear-guard",
+                    "name": "Ear Guard",
+                    "category": "MMA",
+                    "image": "/assets/products/ear guard/1.webp",
+                    "images": [
+                        "/assets/products/ear guard/1.webp",
+                        "/assets/products/ear guard/2.webp",
+                        "/assets/products/ear guard/48.webp"
+                    ],
+                    "description": "Premium wrestling and grappling ear guards designed to protect athletes during training and competition. Adjustable straps provide a secure and comfortable fit while reducing the risk of ear injuries.",
+                    "variants": [
+                        {
+                            "id": "junior",
+                            "label": "Junior"
+                        },
+                        {
+                            "id": "senior",
+                            "label": "Senior"
+                        }
+                    ],
+                    "specs": {
+                        "Size": [
+                            "Junior",
+                            "Senior"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "PU Synthetic",
+                            "Cowhide Leather"
+                        ],
+                        "Logo": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Ear Guards Manufacturer | Haute Fighting Gears",
+                        "description": "Private label wrestling and MMA ear guards manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom colors, branding, worldwide shipping.",
+                        "slug": "ear-guard"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "apparel",
+            "name": "Apparel",
+            "products": [
+                {
+                    "id": "muay-thai-shorts",
+                    "name": "Muay Thai Shorts",
+                    "category": "Apparel",
+                    "image": "/assets/products/Muaythai shorts/1.webp",
+                    "images": [
+                        "/assets/products/Muaythai shorts/1.webp",
+                        "/assets/products/Muaythai shorts/2.webp",
+                        "/assets/products/Muaythai shorts/3.webp",
+                        "/assets/products/Muaythai shorts/4.webp"
+                    ],
+                    "description": "Premium Muay Thai shorts designed for unrestricted movement during training and competition. Manufactured using lightweight satin or polyester fabric with reinforced stitching and customizable sublimation or embroidery.",
+                    "variants": [
+                        {
+                            "id": "satin",
+                            "label": "Satin"
+                        },
+                        {
+                            "id": "polyester",
+                            "label": "Polyester"
+                        }
+                    ],
+                    "specs": {
+                        "Size": [
+                            "XS",
+                            "S",
+                            "M",
+                            "L",
+                            "XL",
+                            "XXL"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Gold",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "Satin",
+                            "Polyester"
+                        ],
+                        "Logo": [
+                            "Sublimation",
+                            "Embroidery",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Muay Thai Shorts Manufacturer | Haute Fighting Gears",
+                        "description": "Private label custom Muay Thai shorts manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, sublimation, embroidery, worldwide shipping.",
+                        "slug": "muay-thai-shorts"
+                    }
+                },
+                {
+                    "id": "boxing-shoes",
+                    "name": "Boxing Shoes",
+                    "category": "Apparel",
+                    "image": "/assets/products/boxing shoe/1.webp",
+                    "images": [
+                        "/assets/products/boxing shoe/1.webp",
+                        "/assets/products/boxing shoe/2.webp",
+                        "/assets/products/boxing shoe/3.webp",
+                        "/assets/products/boxing shoe/4.webp",
+                        "/assets/products/boxing shoe/5.webp",
+                        "/assets/products/boxing shoe/6.webp"
+                    ],
+                    "description": "Professional boxing shoes engineered for agility, stability, and comfort inside the ring. Lightweight construction with durable sole provides superior grip and foot support during training and competition.",
+                    "variants": [
+                        {
+                            "id": "low-top",
+                            "label": "Low Top"
+                        },
+                        {
+                            "id": "high-top",
+                            "label": "High Top"
+                        }
+                    ],
+                    "specs": {
+                        "Size": [
+                            "US 5",
+                            "US 6",
+                            "US 7",
+                            "US 8",
+                            "US 9",
+                            "US 10",
+                            "US 11",
+                            "US 12",
+                            "US 13"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "Synthetic Leather",
+                            "Genuine Leather"
+                        ],
+                        "Logo": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Boxing Shoes Manufacturer | Haute Fighting Gears",
+                        "description": "Private label boxing shoes manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom colors, branding, worldwide shipping.",
+                        "slug": "boxing-shoes"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "accessories",
+            "name": "Accessories",
+            "products": [
+                {
+                    "id": "boxing-gloves-keychain",
+                    "name": "Boxing Gloves Keychain",
+                    "category": "Accessories",
+                    "image": "/assets/products/boxing gloves keychain/1.webp",
+                    "images": [
+                        "/assets/products/boxing gloves keychain/1.webp",
+                        "/assets/products/boxing gloves keychain/2.webp",
+                        "/assets/products/boxing gloves keychain/3.webp"
+                    ],
+                    "description": "Custom mini boxing glove keychains manufactured using durable synthetic leather. Perfect for promotional events, retail merchandise, gifts, and private label branding.",
+                    "variants": [
+                        {
+                            "id": "pu",
+                            "label": "PU Synthetic"
+                        },
+                        {
+                            "id": "cowhide",
+                            "label": "Cowhide Leather"
+                        }
+                    ],
+                    "specs": {
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "PU Synthetic",
+                            "Cowhide Leather"
+                        ],
+                        "Logo": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Boxing Gloves Keychain Manufacturer | Haute Fighting Gears",
+                        "description": "Private label mini boxing glove keychains manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom logo, colors, worldwide shipping.",
+                        "slug": "boxing-gloves-keychain"
+                    }
+                },
+                {
+                    "id": "ufc-gloves-keychain",
+                    "name": "UFC Gloves Keychain",
+                    "category": "Accessories",
+                    "image": "/assets/products/ufc gloves keychain/1.webp",
+                    "images": [
+                        "/assets/products/ufc gloves keychain/1.webp",
+                        "/assets/products/ufc gloves keychain/2.webp",
+                        "/assets/products/ufc gloves keychain/3.webp",
+                        "/assets/products/ufc gloves keychain/4.webp",
+                        "/assets/products/ufc gloves keychain/5.webp"
+                    ],
+                    "description": "Miniature boxing-inspired keychain manufactured from premium synthetic leather. Ideal for promotional giveaways, gyms, sports brands, and merchandise collections. Fully customizable with logos and colors.",
+                    "variants": [
+                        {
+                            "id": "pu",
+                            "label": "PU Synthetic"
+                        },
+                        {
+                            "id": "cowhide",
+                            "label": "Cowhide Leather"
+                        }
+                    ],
+                    "specs": {
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Custom"
+                        ],
+                        "Material": [
+                            "PU Synthetic",
+                            "Cowhide Leather"
+                        ],
+                        "Logo": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom UFC Gloves Keychain Manufacturer | Haute Fighting Gears",
+                        "description": "Private label UFC-style mini glove keychains manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom logo, colors, worldwide shipping.",
+                        "slug": "ufc-gloves-keychain"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "gym-fitness",
+            "name": "Gym & Fitness",
+            "products": [
+                {
+                    "id": "inner-gloves",
+                    "name": "Hand Wraps",
+                    "category": "Gym & Fitness",
+                    "image": "/assets/products/hand-wrap-gloves/1.webp",
+                    "images": [
+                        "/assets/products/hand-wrap-gloves/1.webp",
+                        "/assets/products/hand-wrap-gloves/2.webp"
+                    ],
+                    "description": "Durable hand wraps providing wrist stability and knuckle protection for training and fights. Available in Cotton/Nylon, Gel, or Quick Wrap styles.",
+                    "variants": [
+                        {
+                            "id": "cotton",
+                            "label": "Cotton / Nylon"
+                        },
+                        {
+                            "id": "gel",
+                            "label": "Gel Wrap"
+                        },
+                        {
+                            "id": "quick-wrap",
+                            "label": "Quick Wrap"
+                        }
+                    ],
+                    "specs": {
+                        "Length": [
+                            "1.5m",
+                            "3m",
+                            "4m",
+                            "4.5m"
+                        ],
+                        "Color": [
+                            "Black",
+                            "Red",
+                            "Blue",
+                            "White",
+                            "Pink",
+                            "Custom"
+                        ]
+                    },
+                    "seo": {
+                        "title": "Custom Hand Wraps Manufacturer | Haute Fighting Gears",
+                        "description": "Private label hand wraps manufactured in Sialkot, Pakistan. OEM, ODM, wholesale, custom colors, branding, worldwide shipping.",
+                        "slug": "inner-gloves"
+                    }
+                }
+            ]
+        }
+    ]
+}
